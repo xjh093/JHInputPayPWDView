@@ -1,0 +1,2 @@
+# JHInputPayPWDView
+Input pay pwd
